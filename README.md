@@ -9,4 +9,4 @@ Hello World isn't **enthusiastic** enough, exclaimation point needed in next ver
 
 ##__Special Thanks__
 
-I'd like to thank myself for being so brilliant, amazing, and humble
+I'd like to thank myself for being so brilliant, amazing, *and* humble
