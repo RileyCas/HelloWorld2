@@ -3,6 +3,7 @@ class HelloWorld {
         System.out.println("Here ye : important announcement");
         System.out.println("Hello World"); 
         System.out.println("Hello Alice");
+        System.out.println("Hello Bob");
         System.out.println("Goodbye cruel world"); 
     }
 }
